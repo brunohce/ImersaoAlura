@@ -2,7 +2,7 @@
 
 Importação, tratamento e manipulação de dados
 
-Estatística descritiva
+Estatística descritiva e plots
 
 Criação de algoritmos para predição de mecanismo de ativação por drogas
 
